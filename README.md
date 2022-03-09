@@ -6,3 +6,5 @@ By using Ubuntu deb files the appimages conform more closely to the operating sy
 User plug-ins and scripts are in $HOME/.config/GIMP/2.10/
 The 'Gimp2-10-30Ubu_22-04.AppImage' was made on Ubuntu LTS 22.04 but works better on the current LTS Ubuntu 20.04 version.
 
+Any isues post in 'issues ' on the github page.
+
